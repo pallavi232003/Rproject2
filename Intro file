@@ -1,1 +1,21 @@
-context file
+E-commerce Sales Analysis
+
+Goal:
+The project aimed to analyze sales data to uncover purchase trends, customer behavior, and product performance. This helped suggest strategies to boost sales and optimize inventory.
+
+Datasets & Tools:
+
+Dataset: Synthetic or company-provided sales transaction data (order details, customer data, product categories).
+
+Tools:
+
+Python (Pandas, Seaborn) for EDA.
+
+Power BI/Tableau for interactive dashboards.
+
+SQL for querying large data subsets.
+
+Key Insight/Deliverable:
+The analysis revealed that most sales peaked during festival seasons, with electronics and apparel being top-performing categories. Loyal customers (repeat buyers) contributed to 40% of total revenue. I delivered a dashboard summarizing KPIs like sales by region, category performance, and customer lifetime value (CLV), along with actionable recommendations for targeted marketing.
+
+
